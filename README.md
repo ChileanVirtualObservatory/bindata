@@ -7,8 +7,9 @@ To donwload all files you need to install and initialize lfs (https://git-lfs.gi
 
 Then, you need to...
 
+``` bash
 git clone git@github.com:ChileanVirtualObservatory/bindata.git
 cd bindata
 git lfs fetch
 git lfs checkout
-
+```
